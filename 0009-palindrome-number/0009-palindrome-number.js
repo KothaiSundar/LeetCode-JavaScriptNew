@@ -10,7 +10,7 @@ var isPalindrome = function(x) {
     while (temp > 0) {
       const digit =temp % 10;
       reverse = reverse * 10 + digit;
-     temp= ~~(temp / 10);
+   temp=Math.floor(temp / 10)
     }
 
     return reverse == x;

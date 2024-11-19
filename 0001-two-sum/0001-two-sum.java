@@ -8,12 +8,10 @@ class Solution {
             {
             if(nums[i]+nums[j]==target)
             { 
-                result[0]=i;
-                result[1]=j;
-            }
+                      return new int[] {i, j}; // Return the indices immediately
+             }
             }
         }
-        return result;
+        throw new IllegalArgumentException("No two sum solution"); // Throw exception if no solution
     }
-
 }

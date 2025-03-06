@@ -6,11 +6,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -21,6 +23,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0113-path-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -37,4 +40,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0088-merge-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->

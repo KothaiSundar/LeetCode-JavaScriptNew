@@ -21,4 +21,16 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

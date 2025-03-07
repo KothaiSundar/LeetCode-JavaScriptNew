@@ -7,12 +7,14 @@
 | [0100-same-tree](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0113-path-sum-ii) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0113-path-sum-ii) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0113-path-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0775-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

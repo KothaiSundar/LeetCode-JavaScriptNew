@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0141-linked-list-cycle) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0775-n-ary-tree-preorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

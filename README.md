@@ -31,6 +31,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -56,4 +58,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0088-merge-sorted-array) |
+| [0724-find-pivot-index](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -63,5 +64,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

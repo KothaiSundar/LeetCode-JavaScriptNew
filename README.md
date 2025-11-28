@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0088-merge-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0160-intersection-of-two-linked-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

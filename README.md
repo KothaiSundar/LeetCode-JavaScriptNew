@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/1929-concatenation-of-array) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0169-majority-element) |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/KothaiSundar/LeetCode-JavaScriptNew/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
